@@ -1,0 +1,17 @@
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Baci kockicu\Baci kockicu\bin\Debug\net6.0-windows\Baci kockicu.exe
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Baci kockicu\Baci kockicu\bin\Debug\net6.0-windows\Baci kockicu.deps.json
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Baci kockicu\Baci kockicu\bin\Debug\net6.0-windows\Baci kockicu.runtimeconfig.json
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Baci kockicu\Baci kockicu\bin\Debug\net6.0-windows\Baci kockicu.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Baci kockicu\Baci kockicu\bin\Debug\net6.0-windows\Baci kockicu.pdb
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Baci kockicu\Baci kockicu\obj\Debug\net6.0-windows\Baci kockicu.csproj.AssemblyReference.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Baci kockicu\Baci kockicu\obj\Debug\net6.0-windows\Baci_kockicu.Form1.resources
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Baci kockicu\Baci kockicu\obj\Debug\net6.0-windows\Baci kockicu.csproj.GenerateResource.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Baci kockicu\Baci kockicu\obj\Debug\net6.0-windows\Baci kockicu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Baci kockicu\Baci kockicu\obj\Debug\net6.0-windows\Baci kockicu.AssemblyInfoInputs.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Baci kockicu\Baci kockicu\obj\Debug\net6.0-windows\Baci kockicu.AssemblyInfo.cs
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Baci kockicu\Baci kockicu\obj\Debug\net6.0-windows\Baci kockicu.csproj.CoreCompileInputs.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Baci kockicu\Baci kockicu\obj\Debug\net6.0-windows\Baci kockicu.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Baci kockicu\Baci kockicu\obj\Debug\net6.0-windows\refint\Baci kockicu.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Baci kockicu\Baci kockicu\obj\Debug\net6.0-windows\Baci kockicu.pdb
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Baci kockicu\Baci kockicu\obj\Debug\net6.0-windows\Baci kockicu.genruntimeconfig.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Baci kockicu\Baci kockicu\obj\Debug\net6.0-windows\ref\Baci kockicu.dll
